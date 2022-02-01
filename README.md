@@ -17,7 +17,6 @@ API used : [joeschmoe](https://joeschmoe.io/)
 
 ## How to use Project
 
-
 - Download or clone the repository
 
 ```
