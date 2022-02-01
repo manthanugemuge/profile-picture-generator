@@ -13,7 +13,7 @@ A Simple Web Application using HTML, CSS, jQuery &amp; API
 
 ## API Used
 
-API used : https://joeschmoe.io/
+API used : [joeschmoe](https://joeschmoe.io/)
 
 ## How to use Project
 
