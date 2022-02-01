@@ -1,5 +1,6 @@
-# Profile-Picture-Generator
-A Simple Web Application using HTML, CSS, jQuery &amp; API 
+# Profile Picture Generator
+A Simple Web Application using HTML, CSS, jQuery &amp; API
+
 ## About The Project
 
 A Simple Web Application using HTML, CSS, jQuery &amp; API 
