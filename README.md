@@ -24,7 +24,7 @@ API used : https://joeschmoe.io/
 Website : https://github.com/ManthanUgemuge/Profile-Picture-Generator
 
 ```
-Run Directly - https://manthanugemuge.github.io/Profile-Picture-Generator/
+- Run Directly - [Profile Picture Generator](https://manthanugemuge.github.io/Profile-Picture-Generator/)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
