@@ -1,5 +1,5 @@
 # Profile Picture Generator
-A Simple Web Application using HTML, CSS, jQuery &amp; API
+A Simple Web Application using HTML, CSS, jQuery &amp;joeschmoe API
 
 ## About The Project
 
