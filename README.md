@@ -17,10 +17,10 @@ API used : [joeschmoe](https://joeschmoe.io/)
 
 ## How to use Project
 
-- Download or clone the repository
+- Download or clone the repository Website :
 
 ```
-Website : https://github.com/manthanugemuge/profile-picture-generator
+https://github.com/manthanugemuge/profile-picture-generator
 
 ```
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/ManthanUgemuge/profile-picture-generator/archive/refs/heads/main.zip) 
