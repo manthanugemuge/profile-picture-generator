@@ -20,7 +20,7 @@ API used : [joeschmoe](https://joeschmoe.io/)
 - Download or clone the repository
 
 ```
-Website : https://github.com/ManthanUgemuge/Profile-Picture-Generator
+Website : https://github.com/manthanugemuge/profile-picture-generator
 
 ```
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/ManthanUgemuge/profile-picture-generator/archive/refs/heads/main.zip) 
