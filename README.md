@@ -23,7 +23,8 @@ API used : [joeschmoe](https://joeschmoe.io/)
 Website : https://github.com/ManthanUgemuge/Profile-Picture-Generator
 
 ```
-- Run Directly - [Live](https://manthanugemuge.github.io/Profile-Picture-Generator/)//[Download](https://github.com/ManthanUgemuge/profile-picture-generator/archive/refs/heads/main.zip)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/ManthanUgemuge/profile-picture-generator/archive/refs/heads/main.zip) 
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/profile-picture-generator/)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
